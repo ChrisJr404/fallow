@@ -1,7 +1,0 @@
-{
-  "name": "css-apply-project",
-  "dependencies": {
-    "tailwindcss": "^3.4.0"
-  },
-  "main": "src/index.ts"
-}

@@ -1,7 +1,0 @@
-{
-  "name": "tsconfig-references-root",
-  "private": true,
-  "dependencies": {
-    "typescript": "^5.0.0"
-  }
-}

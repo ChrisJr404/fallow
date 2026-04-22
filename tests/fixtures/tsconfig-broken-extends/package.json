@@ -1,5 +1,0 @@
-{
-  "name": "tsconfig-broken-extends",
-  "private": true,
-  "workspaces": ["packages/*"]
-}

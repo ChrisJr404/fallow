@@ -1,3 +1,0 @@
-<template>
-  <FeatureCard />
-</template>

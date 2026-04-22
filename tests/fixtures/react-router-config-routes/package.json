@@ -1,6 +1,0 @@
-{
-  "name": "react-router-config-routes",
-  "dependencies": {
-    "@react-router/dev": "^7.0.0"
-  }
-}

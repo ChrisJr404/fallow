@@ -1,5 +1,0 @@
-{
-  "name": "basic-unused-exports",
-  "version": "1.0.0",
-  "main": "src/index.ts"
-}

@@ -1,1 +1,0 @@
-<button>Fancy button</button>

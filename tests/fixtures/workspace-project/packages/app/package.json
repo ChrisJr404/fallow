@@ -1,8 +1,0 @@
-{
-  "name": "app",
-  "main": "src/index.ts",
-  "dependencies": {
-    "shared": "*",
-    "@workspace/utils": "*"
-  }
-}

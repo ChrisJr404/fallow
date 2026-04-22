@@ -1,7 +1,0 @@
-{
-  "name": "docusaurus-theme-only-conventions",
-  "dependencies": {
-    "@docusaurus/core": "^3.10.0",
-    "@docusaurus/theme-classic": "^3.10.0"
-  }
-}

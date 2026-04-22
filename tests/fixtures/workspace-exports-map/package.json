@@ -1,5 +1,0 @@
-{
-  "name": "workspace-exports-map",
-  "private": true,
-  "workspaces": ["packages/*"]
-}

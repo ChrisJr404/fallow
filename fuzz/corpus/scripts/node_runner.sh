@@ -1,1 +1,0 @@
-node -r dotenv/config src/server.ts && tsx scripts/migrate.ts

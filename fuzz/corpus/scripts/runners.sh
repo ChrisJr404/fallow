@@ -1,1 +1,0 @@
-npx --yes prettier --write "src/**/*.ts" ; pnpm exec jest --config jest.config.ts || yarn dlx vitest run

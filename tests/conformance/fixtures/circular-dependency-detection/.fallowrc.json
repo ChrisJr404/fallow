@@ -1,5 +1,0 @@
-{
-  "rules": {
-    "circular-dependencies": "error"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "name": "app",
-  "main": "src/index.ts",
-  "dependencies": {
-    "@workspace/ui": "*"
-  }
-}
